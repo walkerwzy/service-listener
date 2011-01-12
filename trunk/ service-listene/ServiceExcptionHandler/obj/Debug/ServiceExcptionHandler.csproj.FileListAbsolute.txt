@@ -1,0 +1,10 @@
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceExcptionHandler\bin\Debug\ServiceExcptionHandler.dll
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceExcptionHandler\bin\Debug\ServiceExcptionHandler.pdb
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceExcptionHandler\obj\Debug\ResolveAssemblyReference.cache
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceExcptionHandler\obj\Debug\ServiceExcptionHandler.dll
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceExcptionHandler\obj\Debug\ServiceExcptionHandler.pdb
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceExcptionHandler\bin\Debug\ServiceExcptionHandler.dll
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceExcptionHandler\bin\Debug\ServiceExcptionHandler.pdb
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceExcptionHandler\obj\Debug\ResolveAssemblyReference.cache
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceExcptionHandler\obj\Debug\ServiceExcptionHandler.dll
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceExcptionHandler\obj\Debug\ServiceExcptionHandler.pdb

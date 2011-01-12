@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Task Name="测试服务" ServiceName="MSSQL$SQLEXPRESS" ServiceDisplay="SQL Server (SQLEXPRESS)" Enabled="True">
+    <Scan Interval="20" />
+    <Restart Type="Month" Time="03:00" Day="8" />
+  </Task>
+  <Task Name="守护EAServer" ServiceName="Jaguar" ServiceDisplay="Jaguar Server" Enabled="True">
+    <Scan Interval="2"></Scan>
+    <Restart Type="Week" Time="03:00" Day="1,3,5"></Restart>
+  </Task>
+  <Task Name="我的任务" ServiceName="360rp" ServiceDisplay="360 杀毒实时防护服务" Enabled="True">
+    <Scan Interval="1" />
+    <Restart Type="Month" Time="04:20" Day="5" />
+  </Task>
+  <Task Name="我的服务2" ServiceName="AudioSrv" ServiceDisplay="Windows Audio" Enabled="True">
+    <Scan Interval="1" />
+    <Restart Type="Week" Time="03:00" Day="2,6,7" />
+  </Task>
+  <Task Name="新任务1" ServiceName="dmadmin" ServiceDisplay="Logical Disk Manager Administrative Service" Enabled="True">
+    <Scan Interval="10" />
+    <Restart Type="Day" Time="06:00" Day="1" />
+  </Task>
+  <Task Name="新任务2" ServiceName="dmserver" ServiceDisplay="Logical Disk Manager" Enabled="True">
+    <Scan Interval="10" />
+    <Restart Type="Week" Time="04:00" Day="2,6,3" />
+  </Task>
+  <Task Name="新任务3" ServiceName="ZhuDongFangYu" ServiceDisplay="主动防御" Enabled="True">
+    <Scan Interval="10" />
+    <Restart Type="Week" Time="04:00" Day="2,1" />
+  </Task>
+  <Task Name="新任务5" ServiceName="ClipSrv" ServiceDisplay="ClipBook" Enabled="True">
+    <Scan Interval="10" />
+    <Restart Type="Week" Time="04:00" Day="2" />
+  </Task>
+  <Task Name="新任务6" ServiceName="Dhcp" ServiceDisplay="DHCP Client" Enabled="True">
+    <Scan Interval="10" />
+    <Restart Type="Month" Time="04:00" Day="5" />
+  </Task>
+  <Task Name="新任务4" ServiceName="ProtectedStorage" ServiceDisplay="Protected Storage" Enabled="True">
+    <Scan Interval="10" />
+    <Restart Type="Month" Time="03:00" Day="27" />
+  </Task>
+  <Task Name="test3" ServiceName="ClipSrv" ServiceDisplay="ClipBook" Enabled="True">
+    <Scan Interval="1" />
+    <Restart Type="Day" Time="04:00" Day="1" />
+  </Task>
+</root>

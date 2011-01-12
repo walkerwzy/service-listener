@@ -1,0 +1,50 @@
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\bin\Debug\ServiceListener.exe.config
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\bin\Debug\ServiceListener.exe
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\bin\Debug\ServiceListener.pdb
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ResolveAssemblyReference.cache
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Edit.resources
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Form1.resources
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.listener.resources
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Properties.Resources.resources
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.settings.resources
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\test.csproj.GenerateResource.Cache
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.exe
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.pdb
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\bin\Debug\ServiceListener.exe.config
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\bin\Debug\ServiceListener.exe
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\bin\Debug\ServiceListener.pdb
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ResolveAssemblyReference.cache
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Edit.resources
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Form1.resources
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.listener.resources
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Properties.Resources.resources
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.settings.resources
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\test.csproj.GenerateResource.Cache
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.exe
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.pdb
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\bin\Debug\ServiceListener.exe.config
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.exe
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.pdb
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\bin\Debug\ServiceListener.exe
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\bin\Debug\ServiceListener.pdb
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ResolveAssemblyReference.cache
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Edit.resources
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Form1.resources
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.listener.resources
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Properties.Resources.resources
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.settings.resources
+E:\VisualStudio\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\test.csproj.GenerateResource.Cache
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Form2.resources
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\bin\Debug\ServiceListener.exe.config
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\bin\Debug\ServiceListener.exe
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\bin\Debug\ServiceListener.pdb
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\obj\Debug\ResolveAssemblyReference.cache
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Edit.resources
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Form1.resources
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Form2.resources
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\obj\Debug\ServiceListener.listener.resources
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Properties.Resources.resources
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\obj\Debug\ServiceListener.settings.resources
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\obj\Debug\test.csproj.GenerateResource.Cache
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\obj\Debug\ServiceListener.exe
+F:\DeskTop\yuanqi\new\ServiceListener\ServiceListener\obj\Debug\ServiceListener.pdb
