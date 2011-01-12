@@ -1,0 +1,8 @@
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ListenerService\bin\Release\ListenerService.exe
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ListenerService\bin\Release\ListenerService.pdb
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ListenerService\obj\Release\ResolveAssemblyReference.cache
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ListenerService\obj\Release\ListenerService.ProjectInstaller.resources
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ListenerService\obj\Release\ListenerService.ServiceListener.resources
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ListenerService\obj\Release\ListenerService.csproj.GenerateResource.Cache
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ListenerService\obj\Release\ListenerService.exe
+F:\DeskTop\yuanqi\My DBank\ServiceListener\ListenerService\obj\Release\ListenerService.pdb

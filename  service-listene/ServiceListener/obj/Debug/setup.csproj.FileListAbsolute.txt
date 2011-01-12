@@ -1,0 +1,12 @@
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\bin\Debug\ServiceListener.exe.config
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\bin\Debug\ServiceListener.exe
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\bin\Debug\ServiceListener.pdb
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ResolveAssemblyReference.cache
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Edit.resources
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Form1.resources
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.listener.resources
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.Properties.Resources.resources
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.settings.resources
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\setup.csproj.GenerateResource.Cache
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.exe
+F:\Docs\Visual Studio 2008\Projects\ServiceListener\ServiceListener\obj\Debug\ServiceListener.pdb

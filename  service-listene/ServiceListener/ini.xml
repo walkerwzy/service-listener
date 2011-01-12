@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <node1>
+    <cnode1>1</cnode1>
+    <cnode2>2</cnode2>
+    <cnode3>3</cnode3>
+  </node1>
+  <node2>
+    <color>aa</color>
+    <test>b</test>
+  </node2>
+  <list tag="3">
+    <listname>newnode</listname>
+  </list>
+</ini>

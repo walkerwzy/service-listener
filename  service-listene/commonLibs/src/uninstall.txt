@@ -1,0 +1,19 @@
+@echo off
+
+::设置服务名称
+set service_name=testsvr2
+
+::勿改
+set reg_file=UninstallService.reg
+
+echo                          卸载服务
+echo =========================================================== 
+
+echo 开始卸载...
+sc stop %service_name%
+sc delete %service_name%
+
+echo 卸载完成...
+
+echo ===========================完成============================
+pause

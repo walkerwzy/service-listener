@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Task Name="缓存服务2" ServiceName="W3SVC" ServiceArgs="" ServiceDisplay="World Wide Web Publishing" Enabled="True">
+    <Scan Interval="1" />
+    <Restart Type="Day" Time="19:30" Day="1" />
+  </Task>
+  <Task Name="守护EAServer" ServiceName="W3SVC" ServiceArgs="jaguar:localhost:9000" ServiceDisplay="World Wide Web Publishing" Enabled="True">
+    <Scan Interval="2" />
+    <Restart Type="Week" Time="03:00" Day="2,1,5" />
+  </Task>
+  <Task Name="我的服务" ServiceName="W3SVC" ServiceArgs="" ServiceDisplay="World Wide Web Publishing" Enabled="True">
+    <Scan Interval="1" />
+    <Restart Type="Week" Time="03:00" Day="2,6,7" />
+  </Task>
+  <Task Name="测试服务2" ServiceName="WebClient" ServiceArgs="" ServiceDisplay="WebClient" Enabled="True">
+    <Scan Interval="1" />
+    <Restart Type="Week" Time="20:21" Day="2,1,5" />
+  </Task>
+</root>
