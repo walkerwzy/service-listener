@@ -1,0 +1,1 @@
+a service scanner to make sure the specific service is running, when the status of the service is not running, it can restart/start the service, which run as a system service on Windows OS
